@@ -1,0 +1,2 @@
+This project was completed as a final group assignment for an Intro to Coding for Biologists course. The goal of our project is to analyze raw data representing absorbance over time of varying chymotrypsin assays to determine if we see an increase in protease inhibitor activity in legumes treated with peptides.
+The assay data was provided by one group member from their external research lab (not affiliated with the course), and all group members—including myself—collaborated equally on developing and implementing the code for data analysis.
